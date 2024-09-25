@@ -1,4 +1,8 @@
-Trendify-React-Website
+# Trendify React Website
 
-Features
--Responsive design for both desktop and mobile devices
+## Technologies Used
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind**: For styling.
+
+## Live Demo
+Check out the live demo [here](https://trendify-react-website.vercel.app/).
